@@ -6,5 +6,7 @@ public class Hello {
 
         System.out.println("more action here");
         // ready to go back
+
+        // left the room
     }
 }
